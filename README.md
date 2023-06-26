@@ -1,2 +1,32 @@
-# QR-Code
-Criação de página que exibe um QR-code, feito em com flexbox.
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+---
+## Table of contents
+
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Author](#author)
+
+
+
+### Screenshot
+
+![Screenshot solution](./screenshot_qrcode.png)
+
+### Links
+
+- Solution URL: [Solution](https://github.com/CarlosFigueiredo-sci/QR-Code)
+- Live Site URL: [Live Site](https://carlosfigueiredo-sci.github.io/QR-Code/)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+## Author
+
+- Frontend Mentor - [@CarlosFigueiredo-sci](https://www.frontendmentor.io/profile/CarlosFigueiredo-sci
